@@ -25,3 +25,15 @@ This workshop will be held on Monday, June 10, 2019 at the University of Rhode I
 |1:00 PM - 2:30 PM          |[Tidy Data in R](lessons/03_tidy_data_in_r.md)    |
 |2:30 PM - 2:45 PM          |*BREAK*                                           |
 |2:45 PM - 4:30 PM          |[Data Viz](lessons/04_data_viz_with_ggplot2.md)   |
+
+# Installation
+
+For this workshop you will need a laptop (preferably one on which you have administrative rights, but this is not absolutely required) with R and RStudio installed.  Windows or Mac will be fine.  Please make sure you have the installs completed prior to the start of the workshop.  We will have little time to troubleshoot installations.
+
+- To install R, get the software for your operating system and install it.
+    - Mac OS X: <https://cran.r-project.org/bin/macosx/>
+    - Windows: <https://cran.r-project.org/bin/windows/>
+
+- To install RStudio, get the software for your operating system and install it.
+    - Mac OS X: <https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg> 
+    - Windows: <https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe>
